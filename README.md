@@ -30,6 +30,14 @@ Known Languages: Python, C, HTML5, JavaScript, and CSS.
   
 I believe in implementing the knowledge which I have. Projects play a major role in showcasing our skills. They help in predicting the skills of a person. So let's have a look at my projects.
 
+## 🏆 GitHub Trophies of GithubHosting:
+![](https://github-profile-trophy.vercel.app/?username=githubhosting&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 📊 GitHub Stats of GithubHosting:
+![](https://github-readme-stats.vercel.app/api?username=githubhosting&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=githubhosting&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=githubhosting&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 <h1 align="center">Projects</h1>
 
 
